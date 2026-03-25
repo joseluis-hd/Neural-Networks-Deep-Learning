@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+#Api kaggle
+kaggle.json
+config/kaggle.json
+
+#Data and zip files
+data/
+*.zip
